@@ -80,9 +80,6 @@ See [`enclosure/notes.md`](enclosure/notes.md) for details on the enclosure desi
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-(Add your license here, e.g., MIT, Apache 2.0, or leave as "All rights reserved" if not open source.)
-
 ## Acknowledgments
 - Based on the TECHIN515 Lab 4 template and structure.
 - Thanks to the GIX faculty and Edge Impulse for tools and support.
