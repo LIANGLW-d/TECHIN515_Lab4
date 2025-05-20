@@ -80,6 +80,12 @@ See [`enclosure/notes.md`](enclosure/notes.md) for details on the enclosure desi
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+<<<<<<< HEAD
+=======
+## License
+(Add your license here, e.g., MIT, Apache 2.0, or leave as "All rights reserved" if not open source.)
+
+>>>>>>> 9aebc6e (Save local untracked files before pulling from remote)
 ## Acknowledgments
 - Based on the TECHIN515 Lab 4 template and structure.
 - Thanks to the GIX faculty and Edge Impulse for tools and support.
@@ -87,4 +93,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ---
 
 **References:**
+<<<<<<< HEAD
 - [TECHIN515 Lab 4 Reference Repo](https://github.com/GIXLabs/TECHIN515_Sp25/tree/main/lab4) 
+=======
+- [TECHIN515 Lab 4 Reference Repo](https://github.com/GIXLabs/TECHIN515_Sp25/tree/main/lab4) 
+>>>>>>> 9aebc6e (Save local untracked files before pulling from remote)
